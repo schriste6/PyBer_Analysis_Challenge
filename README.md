@@ -16,5 +16,4 @@
 ## Summary: 
 1.  Riders - Urban riders make up 68.4% of all rides, with suburban riders coming in at 26.3% and rural riders at 5.3%
 2.  Drivers - Ratio of drivers to rides by city type:   Urban 1.48:1, surburban 0.78:1, rural 0.62:1.  
-3.  Drivers Fares - Urban drivers make 33.67% more than Suburban drivers and 108% more than rural drivers.
-4.  Rider Fares - 
+3.  May consider analysis on why people ride-share; business, vacation, commute
