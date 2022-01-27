@@ -1,7 +1,7 @@
 # Overview:
 *  PyBer is a ride-sharing app company valued at $2.3 billion. CEO, V. Isualize has requested an analysis of all the ride-share data from January to the early part of May 2019.  
    * Ride-sharing is an innovative on-demand transportation serivce and it is the right time to evaluate performance to identify what opportunities should be explored.
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results: 
 *  This analysis starts with understanding volumes:  
    *  Total rides = 2375
    *  Total drivers = 2973
