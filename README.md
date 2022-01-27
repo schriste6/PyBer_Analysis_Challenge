@@ -3,10 +3,11 @@
    * Ride-sharing is an innovative on-demand transportation serivce and it is the right time to evaluate performance to identify what opportunities should be explored.
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 *  This analysis starts with understanding volumes:  
-   1.  Total rides = 2375
-   2.  Total drivers = 2973
-   3.  Total Fares = $63,538.64
-*  Three City Types are included in the analysis; urban, suburban, and rural.  The following summarizes key data by each of the city types. 
+   *  Total rides = 2375
+   *  Total drivers = 2973
+   *  Total Fares = $63,538.64
+*  Three City Types are included in the analysis; urban, suburban, and rural.  
+   *  The following table summarizes key data by each of the city types. 
 ![](/analysis/PyBer_data_summary.png)
 
 
